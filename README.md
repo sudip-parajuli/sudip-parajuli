@@ -1,24 +1,43 @@
-# 💫 About Me:
-👋 Hi, I’m Sudip Parajuli (@sudip-parajuli)<br>🚀 Aspiring Data Scientist | Django Developer | Tech Enthusiast<br><br>👀 Interests:<br>Data Science & Machine Learning<br>Backend Development (Django & Django Rest Framework)<br>Recommendation Systems & AI-powered Applications<br>Full-Stack Web Development<br>Cloud & DevOps (Exploring AWS, Docker)<br><br>🌱 Currently Learning:<br>Python and Django<br>Advanced Django Rest Framework (DRF)<br>Data Science & Machine Learning Fundamentals<br>PostgreSQL & Database Optimization<br>API Development <br><br>💞️ Looking to Collaborate on:<br>Open-source Django & Data Science projects<br>AI-powered applications & recommendation systems<br>Web applications that solve real-world problems<br><br>📫 How to Reach Me:<br>📧 Email: [sparajuli802@gmail.com]<br>🔗 LinkedIn: [www.linkedin.com/in/sudip-parajuli-8073601a1]<br><br><br>😄 Pronouns:<br>He/Him<br><br>⚡ Fun Fact:<br>I started my tech journey with PHP & MySQL before diving deep into Python and Django
+# Hi, I'm Sudip Parajuli
 
+**AI Product Builder · Creative Technologist · Indie Maker**  
+Kathmandu, Nepal · [Techwired Solutions](https://techwiredsolutions.com.np)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudip-parajuli-8073601a1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@sudip_parajuli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sparajuli802@gmail.com) 
+I like turning “what if?” into something people can actually use.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sudip-parajuli&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sudip-parajuli&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-parajuli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I build web products, business management tools, AI applications, automations and games. Through Techwired Solutions, I work on my own products and build websites and software for other businesses. My experience also includes digital marketing, which informs how I think about getting a product into people's hands.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I use AI-assisted development to explore ideas, prototype and iterate. My current focus is turning those ideas into useful products, improving the systems behind them and expanding into mobile development.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sudip-parajuli&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[My links](https://sudip-parajuli.linkypot.com/) · [Portfolio](https://sudip-parajuli.com.np) · [Business & client work](https://techwiredsolutions.com.np) · [LinkedIn](https://www.linkedin.com/in/sudip-parajuli-8073601a1) · [Email](mailto:sparajuli802@gmail.com)
 
----
-[![](https://visitcount.itsvg.in/api?id=sudip-parajuli&icon=0&color=0)](https://visitcount.itsvg.in)
+## Selected work
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| Project | What I'm building |
+| --- | --- |
+| **[LinkyPot](https://linkypot.com)** | My largest project: a digital business card and link-in-bio platform with QR sharing, storefronts and business tools. Its private source repository is named `OneQRCard`. |
+| **[EasyMoto](https://www.easymoto.com.np/)** · [Code](https://github.com/sudip-parajuli/bike_rental_service) | A motorcycle and scooter rental platform with customer and host workflows, booking and payment integrations, administration and staff mobile tools. |
+| **[Dashain Cards](https://www.techwiredsolutions.com.np/dashaincards)** · [Code](https://github.com/sudip-parajuli/dashain-cards) | Seven Nepali card games with offline play, friends rooms and shared scorekeeping. Preparing the Android companion for Google Play release. |
+| **[Krisearch](https://github.com/sudip-parajuli/krisearch)** | A bilingual agriculture platform for Nepal, bringing together community knowledge, crop information, market data and AI-assisted features. |
+| **[ChillPill Gaming Cafe](https://chillpill.com.np)** · [Code](https://github.com/techwired-solutions/gaming-cafe) | A public website and owner/staff console for managing gaming sessions, bookings, billing and daily cafe operations. |
+| **[GharBari](https://github.com/techwired-solutions/gharbari)** | A bilingual property listing board for people offering properties or sharing what they're looking for. |
+| **[Gym Engine](https://gym-engine.vercel.app)** · [Code](https://github.com/sudip-parajuli/gym-engine) | Fitness education, personal planning and progress tracking, alongside tools for independent gym operators. In active development. |
+
+Some business projects live on my [work GitHub account](https://github.com/techwired-solutions); commercial source code may remain private.
+
+## What I'm working toward
+
+- **Mobile publishing:** preparing Dashain Cards and **Roamfall**, my native Android exploration game, for Google Play release as a solo developer. Neither is a published Play Store release yet.
+- **Bizz Tracker — planned:** a versatile mobile app for small-business management, informed by my work on rental and gaming-cafe systems.
+- **Fam-Tree — working name, planned:** an app for family relationships, generational charts, life events and family health history.
+- **Applied AI and agriculture:** exploring how modern software and AI can make agricultural information and tools more useful in Nepal. I'm also preparing for postgraduate study in IT.
+
+## Client work, automation and foundations
+
+I've built websites for businesses including [EasyMoto](https://easymoto.com.np), [Amicus](https://amicus.com.np), [Aryal Farm](https://aryalfarm.com.np), [KhelHub Nepal](https://khelhubnepal.com) and [ChillPill](https://chillpill.com.np).
+
+Other work includes [football media automation](https://github.com/sudip-parajuli/football-shorts-automation), [Nepali news automation](https://github.com/sudip-parajuli/news-automation), [AI programming exercises](https://github.com/sudip-parajuli/AI_Programming_Practice) and [Django REST Framework practice from my internship](https://github.com/sudip-parajuli/drftutorial).
+
+**Tools I work with:** Python · Django / DRF · JavaScript / TypeScript · React / Next.js · PostgreSQL · Supabase · SQLite · Android · GitHub Actions · AI APIs
+
+I'm interested in collaborating on useful software, small-business tools and agricultural technology.
